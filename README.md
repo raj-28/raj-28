@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raj-28
 - 👀 I’m interested in UI technologies
-- 🌱 I’m currently learning reacr-native
+- 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on UI technologies
 
 
