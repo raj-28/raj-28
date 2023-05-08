@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Beautiful Image Sliders with React Swiper: A step-by-step Guide](https://medium.com/@masterrajpatel/create-beautiful-image-sliders-with-react-swiper-a-step-by-step-guide-af522ef8d11c?source=rss-cf0d1005fdcb------2)
 - [Fetch API : Again are you using that right](https://medium.com/@masterrajpatel/fetch-api-again-are-you-using-that-right-d453ed9453f2?source=rss-cf0d1005fdcb------2)
 - [Multi-Step Form In React](https://medium.com/@masterrajpatel/multi-step-form-in-react-b3628ae60335?source=rss-cf0d1005fdcb------2)
 - [Lets Create Accordion in React](https://medium.com/@masterrajpatel/lets-create-accordion-in-react-7e43d19a6868?source=rss-cf0d1005fdcb------2)
-- [Ultimate Guide To &lpar;&rpar; in React](https://medium.com/@masterrajpatel/ultimate-guide-to-in-react-4231565be427?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
