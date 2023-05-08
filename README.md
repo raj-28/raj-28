@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/rk-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rk-p" height="30" width="40" /></a>
 <a href="https://instagram.com/master__raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="master__raj" height="30" width="40" /></a>
 <a href="https://medium.com/@masterrajpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@masterrajpatel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/errormania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="errormania" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/errormania404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="errormania404" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/errormania404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="errormania404" height="30" width="40" /></a>
 </p>
 
