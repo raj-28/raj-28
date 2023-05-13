@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Preparing for React: What You Need to Know!!!](https://medium.com/@masterrajpatel/preparing-for-react-what-you-need-to-know-6ce19c89e8fd?source=rss-cf0d1005fdcb------2)
 - [“useGlobalContext&lpar;&rpar;” Sharing Data between components](https://medium.com/@masterrajpatel/useglobalcontext-sharing-data-between-components-8418137dbe7d?source=rss-cf0d1005fdcb------2)
 - [The “const” Deception](https://medium.com/@masterrajpatel/the-const-deception-509cdbfbc625?source=rss-cf0d1005fdcb------2)
 - [Mastering Local Storage in React](https://medium.com/@masterrajpatel/mastering-local-storage-in-react-a198db6e9572?source=rss-cf0d1005fdcb------2)
-- [Create Beautiful Image Sliders with React Swiper: A step-by-step Guide](https://medium.com/@masterrajpatel/create-beautiful-image-sliders-with-react-swiper-a-step-by-step-guide-af522ef8d11c?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
