@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [File System &lpar;fs&rpar; In Node Js](https://medium.com/@masterrajpatel/file-system-fs-in-node-js-246de180f609?source=rss-cf0d1005fdcb------2)
 - [How to Use onChange Event in ReactJS](https://medium.com/@masterrajpatel/how-to-use-onchange-event-in-reactjs-2e68ebfca8a6?source=rss-cf0d1005fdcb------2)
 - [Preparing for React: What You Need to Know!!!](https://medium.com/@masterrajpatel/preparing-for-react-what-you-need-to-know-6ce19c89e8fd?source=rss-cf0d1005fdcb------2)
 - [“useGlobalContext&lpar;&rpar;” Sharing Data between components](https://medium.com/@masterrajpatel/useglobalcontext-sharing-data-between-components-8418137dbe7d?source=rss-cf0d1005fdcb------2)
-- [The “const” Deception](https://medium.com/@masterrajpatel/the-const-deception-509cdbfbc625?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
