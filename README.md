@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using the useState hook in React: Make it work for you](https://medium.com/@masterrajpatel/using-the-usestate-hook-in-react-make-it-work-for-you-2b2460847048?source=rss-cf0d1005fdcb------2)
 - [useMemo Hook in React : Learn It the best Way](https://medium.com/@masterrajpatel/usememo-hook-in-react-learn-it-the-best-way-6ee358d9c158?source=rss-cf0d1005fdcb------2)
 - [File System &lpar;fs&rpar; In Node Js](https://medium.com/@masterrajpatel/file-system-fs-in-node-js-246de180f609?source=rss-cf0d1005fdcb------2)
 - [How to Use onChange Event in ReactJS](https://medium.com/@masterrajpatel/how-to-use-onchange-event-in-reactjs-2e68ebfca8a6?source=rss-cf0d1005fdcb------2)
-- [Preparing for React: What You Need to Know!!!](https://medium.com/@masterrajpatel/preparing-for-react-what-you-need-to-know-6ce19c89e8fd?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
