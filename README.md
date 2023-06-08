@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why ‘Callback’ Function is Important i](https://medium.com/@masterrajpatel/why-callback-function-is-important-i-d24973f3730f?source=rss-cf0d1005fdcb------2)
 - [Do You Even Know About `AJAX`](https://medium.com/@masterrajpatel/do-you-even-know-about-ajax-99c736beb13f?source=rss-cf0d1005fdcb------2)
 - [Optimizing React’s Performance](https://medium.com/@masterrajpatel/optimizing-reacts-performance-ada805a6d588?source=rss-cf0d1005fdcb------2)
 - [All About Servers : NODE JS](https://medium.com/@masterrajpatel/all-about-servers-node-js-b530974ee236?source=rss-cf0d1005fdcb------2)
-- [Destructuring In JavaScript — PART 1](https://medium.com/@masterrajpatel/destructuring-in-javascript-part-1-cace6256b3e3?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
