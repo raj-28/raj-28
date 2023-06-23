@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Some JavaScript You Should Know &lpar;Part-1&rpar;](https://medium.com/@masterrajpatel/some-javascript-you-should-know-part-1-63164f3fe27?source=rss-cf0d1005fdcb------2)
 - [Understand MVC Architecture ,Like Never Before](https://medium.com/@masterrajpatel/understand-mvc-architecture-like-never-before-decde2450932?source=rss-cf0d1005fdcb------2)
 - [MovieLand App in React &lpar;using omdb API&rpar;](https://medium.com/@masterrajpatel/movieland-app-in-react-using-omdb-api-b6a2f1ff1b6e?source=rss-cf0d1005fdcb------2)
 - [Build a REST API with Node JS and Express](https://medium.com/@masterrajpatel/build-a-rest-api-with-node-js-and-express-4e67db656028?source=rss-cf0d1005fdcb------2)
-- [Understand The State in React](https://medium.com/@masterrajpatel/understand-the-state-in-react-1ca84de2edf4?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
