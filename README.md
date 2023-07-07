@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript’s Map, Filter, and Reduce Methods: A Comprehensive Guide](https://medium.com/@masterrajpatel/mastering-javascripts-map-filter-and-reduce-methods-a-comprehensive-guide-6baffeae1063?source=rss-cf0d1005fdcb------2)
 - [Top 6 Most Popular API Architecture Styles](https://medium.com/@masterrajpatel/top-6-most-popular-api-architecture-styles-99a061ee87e3?source=rss-cf0d1005fdcb------2)
 - [Some JavaScript You Should Know &lpar;Part-1&rpar;](https://medium.com/@masterrajpatel/some-javascript-you-should-know-part-1-63164f3fe27?source=rss-cf0d1005fdcb------2)
 - [Understand MVC Architecture ,Like Never Before](https://medium.com/@masterrajpatel/understand-mvc-architecture-like-never-before-decde2450932?source=rss-cf0d1005fdcb------2)
-- [MovieLand App in React &lpar;using omdb API&rpar;](https://medium.com/@masterrajpatel/movieland-app-in-react-using-omdb-api-b6a2f1ff1b6e?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
