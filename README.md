@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Based Services #cloudcomputing](https://medium.com/@masterrajpatel/cloud-based-services-cloudcomputing-7bb0e4575d07?source=rss-cf0d1005fdcb------2)
 - [Types of Cloud #cloudcomputing](https://medium.com/@masterrajpatel/types-of-cloud-cloudcomputing-399593e87787?source=rss-cf0d1005fdcb------2)
 - [Mastering JavaScript’s Map, Filter, and Reduce Methods: A Comprehensive Guide](https://medium.com/@masterrajpatel/mastering-javascripts-map-filter-and-reduce-methods-a-comprehensive-guide-6baffeae1063?source=rss-cf0d1005fdcb------2)
 - [Top 6 Most Popular API Architecture Styles](https://medium.com/@masterrajpatel/top-6-most-popular-api-architecture-styles-99a061ee87e3?source=rss-cf0d1005fdcb------2)
-- [Some JavaScript You Should Know &lpar;Part-1&rpar;](https://medium.com/@masterrajpatel/some-javascript-you-should-know-part-1-63164f3fe27?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
