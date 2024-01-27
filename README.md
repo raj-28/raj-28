@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lets See how you Deploy Your Boutique to the cloud #soonincloud](https://medium.com/@masterrajpatel/lets-see-how-you-deploy-your-boutique-to-the-cloud-soonincloud-1febe15f0790?source=rss-cf0d1005fdcb------2)
 - [A Tale of Creating Cloud Instances in AWS, GCP, and Azure](https://medium.com/@masterrajpatel/a-tale-of-creating-cloud-instances-in-aws-gcp-and-azure-515aff559885?source=rss-cf0d1005fdcb------2)
 - [Cloud Based Services #cloudcomputing](https://medium.com/@masterrajpatel/cloud-based-services-cloudcomputing-7bb0e4575d07?source=rss-cf0d1005fdcb------2)
 - [Types of Cloud #cloudcomputing](https://medium.com/@masterrajpatel/types-of-cloud-cloudcomputing-399593e87787?source=rss-cf0d1005fdcb------2)
-- [Mastering JavaScript’s Map, Filter, and Reduce Methods: A Comprehensive Guide](https://medium.com/@masterrajpatel/mastering-javascripts-map-filter-and-reduce-methods-a-comprehensive-guide-6baffeae1063?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
