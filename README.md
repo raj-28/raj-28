@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Guardians: Unraveling IAM Powers and Policies in AWS, Azure, and GCP Realms #soonincloud](https://medium.com/@masterrajpatel/cloud-guardians-unraveling-iam-powers-and-policies-in-aws-azure-and-gcp-realms-soonincloud-02debe09cabd?source=rss-cf0d1005fdcb------2)
 - [Lets See how you Deploy Your Boutique to the cloud #soonincloud](https://medium.com/@masterrajpatel/lets-see-how-you-deploy-your-boutique-to-the-cloud-soonincloud-1febe15f0790?source=rss-cf0d1005fdcb------2)
 - [A Tale of Creating Cloud Instances in AWS, GCP, and Azure](https://medium.com/@masterrajpatel/a-tale-of-creating-cloud-instances-in-aws-gcp-and-azure-515aff559885?source=rss-cf0d1005fdcb------2)
 - [Cloud Based Services #cloudcomputing](https://medium.com/@masterrajpatel/cloud-based-services-cloudcomputing-7bb0e4575d07?source=rss-cf0d1005fdcb------2)
-- [Types of Cloud #cloudcomputing](https://medium.com/@masterrajpatel/types-of-cloud-cloudcomputing-399593e87787?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
