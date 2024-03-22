@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Frontend to Backend: Crafting Highly Available Web Apps with HTML Frontend and Node.js](https://medium.com/@masterrajpatel/frontend-to-backend-crafting-highly-available-web-apps-with-html-frontend-and-node-js-5958feaea63e?source=rss-cf0d1005fdcb------2)
 - [Secure SSH Connections and Python Flask App Hosting: Leveraging Bastion and Private EC2 Instances…](https://medium.com/@masterrajpatel/secure-ssh-connections-and-python-flask-app-hosting-leveraging-bastion-and-private-ec2-instances-0bf5377f4761?source=rss-cf0d1005fdcb------2)
 - [Cloud Guardians: Unraveling IAM Powers and Policies in AWS, Azure, and GCP Realms #soonincloud](https://medium.com/@masterrajpatel/cloud-guardians-unraveling-iam-powers-and-policies-in-aws-azure-and-gcp-realms-soonincloud-02debe09cabd?source=rss-cf0d1005fdcb------2)
 - [Lets See how you Deploy Your Boutique to the cloud #soonincloud](https://medium.com/@masterrajpatel/lets-see-how-you-deploy-your-boutique-to-the-cloud-soonincloud-1febe15f0790?source=rss-cf0d1005fdcb------2)
-- [A Tale of Creating Cloud Instances in AWS, GCP, and Azure](https://medium.com/@masterrajpatel/a-tale-of-creating-cloud-instances-in-aws-gcp-and-azure-515aff559885?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
