@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Battle of the Clouds: Deploying Web Servers on GCP vs. Azure](https://medium.com/@masterrajpatel/battle-of-the-clouds-deploying-web-servers-on-gcp-vs-azure-cd483963605e?source=rss-cf0d1005fdcb------2)
 - [Essential Docker Commands](https://medium.com/@masterrajpatel/essential-docker-commands-d470f0dcb96f?source=rss-cf0d1005fdcb------2)
 - [ECS Deployment with AWS Fargate: A CloudFormation Blueprint](https://medium.com/@masterrajpatel/ecs-deployment-with-aws-fargate-a-cloudformation-blueprint-8ae2ab46b26e?source=rss-cf0d1005fdcb------2)
 - [Effortless Cloud Deployment: Terraform on AWS, GCP, and Azure](https://medium.com/@masterrajpatel/effortless-cloud-deployment-terraform-on-aws-gcp-and-azure-2e51740de117?source=rss-cf0d1005fdcb------2)
-- [Deploying a Highly Available website with #AWS CloudFormation #incloudbyrk](https://medium.com/@masterrajpatel/deploying-a-highly-available-website-with-aws-cloudformation-soonincloudbyrk-a5782d178c1d?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
