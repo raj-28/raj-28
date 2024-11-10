@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Boring Way: #AWS Developer Associate Days 1–3 #50DaysChallenge](https://medium.com/@masterrajpatel/the-boring-way-aws-developer-associate-days-1-3-50dayschallenge-9b0a60fbd31c?source=rss-cf0d1005fdcb------2)
 - [My 50-Day Challenge to AWS Developer Associate Certification: Join Me on the Journey!](https://medium.com/@masterrajpatel/my-50-day-challenge-to-aws-developer-associate-certification-join-me-on-the-journey-3224ff493f66?source=rss-cf0d1005fdcb------2)
 - [Server Setup , The Easy way](https://medium.com/@masterrajpatel/server-setup-the-easy-way-5b350e4c2572?source=rss-cf0d1005fdcb------2)
 - [Battle of the Clouds: Deploying Web Servers on GCP vs. Azure](https://medium.com/@masterrajpatel/battle-of-the-clouds-deploying-web-servers-on-gcp-vs-azure-cd483963605e?source=rss-cf0d1005fdcb------2)
-- [Essential Docker Commands](https://medium.com/@masterrajpatel/essential-docker-commands-d470f0dcb96f?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
