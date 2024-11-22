@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Developer Associate Challenge — Day 7 and 8: VPC, S3, AWS CLI, SDK, and IAM Mastery](https://medium.com/from-code-to-cloud/aws-developer-associate-challenge-day-7-and-8-vpc-s3-aws-cli-sdk-and-iam-mastery-0d30cd2bbf8c?source=rss-cf0d1005fdcb------2)
 - [React 19 Features: Simplified Coding with New Hooks, Compiler, and Performance Upgrades](https://medium.com/from-code-to-cloud/react-19-features-simplified-coding-with-new-hooks-compiler-and-performance-upgrades-5faff59c9f14?source=rss-cf0d1005fdcb------2)
 - [Master AWS Route 53: A Premium In-Depth Guide for AWS 50-Day Challenge Day 6](https://medium.com/from-code-to-cloud/master-aws-route-53-a-premium-in-depth-guide-for-aws-50-day-challenge-day-6-e88e630f6b0b?source=rss-cf0d1005fdcb------2)
 - [AWS RDS, Aurora, and ElastiCache Explained for AWS Developer Associate Exam, 5#50daychallenge](https://medium.com/@masterrajpatel/aws-rds-aurora-and-elasticache-explained-for-aws-developer-associate-exam-5-50daychallenge-2910271b9ffe?source=rss-cf0d1005fdcb------2)
-- [Building AWS Superpowers: Making Apps Always On and Ready to Grow — Day 4 #50daychallenge](https://medium.com/@masterrajpatel/building-aws-superpowers-making-apps-always-on-and-ready-to-grow-day-4-50daychallenge-21b6c9086e0e?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
