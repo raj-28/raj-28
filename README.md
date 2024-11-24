@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS CloudFront: The Ultimate Guide for Developers and Architects Day-9](https://medium.com/@masterrajpatel/aws-cloudfront-the-ultimate-guide-for-developers-and-architects-day-9-78108cf50107?source=rss-cf0d1005fdcb------2)
+- [AWS CloudFront: The Ultimate Guide for Developers and Architects Day-9](https://medium.com/from-code-to-cloud/aws-cloudfront-the-ultimate-guide-for-developers-and-architects-day-9-78108cf50107?source=rss-cf0d1005fdcb------2)
 - [AWS Developer Associate Challenge — Day 7 and 8: VPC, S3, AWS CLI, SDK, and IAM Mastery](https://medium.com/from-code-to-cloud/aws-developer-associate-challenge-day-7-and-8-vpc-s3-aws-cli-sdk-and-iam-mastery-0d30cd2bbf8c?source=rss-cf0d1005fdcb------2)
 - [React 19 Features: Simplified Coding with New Hooks, Compiler, and Performance Upgrades](https://medium.com/from-code-to-cloud/react-19-features-simplified-coding-with-new-hooks-compiler-and-performance-upgrades-5faff59c9f14?source=rss-cf0d1005fdcb------2)
 - [Master AWS Route 53: A Premium In-Depth Guide for AWS 50-Day Challenge Day 6](https://medium.com/from-code-to-cloud/master-aws-route-53-a-premium-in-depth-guide-for-aws-50-day-challenge-day-6-e88e630f6b0b?source=rss-cf0d1005fdcb------2)
