@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Amazon SQS and SNS: Comprehensive Guide with Real-Life Examples](https://medium.com/@masterrajpatel/mastering-amazon-sqs-and-sns-comprehensive-guide-with-real-life-examples-b34d11d2d63b?source=rss-cf0d1005fdcb------2)
 - [AWS CloudFormation Guide — Automate Your Infrastructure](https://medium.com/from-code-to-cloud/aws-cloudformation-guide-automate-your-infrastructure-963d43135b40?source=rss-cf0d1005fdcb------2)
 - [Master AWS Elastic Beanstalk: Deployment, Lifecycle &amp; Scenarios](https://medium.com/from-code-to-cloud/master-aws-elastic-beanstalk-deployment-lifecycle-scenarios-12dfb3f81e9c?source=rss-cf0d1005fdcb------2)
 - [Day 10: Master Amazon ECS &amp; EKS | #50DaysAWSDeveloperAssociate Docker, ECR](https://medium.com/@masterrajpatel/day-10-master-amazon-ecs-eks-50daysawsdeveloperassociate-docker-ecr-b52e46d5de28?source=rss-cf0d1005fdcb------2)
-- [AWS CloudFront: The Ultimate Guide for Developers and Architects Day-9](https://medium.com/from-code-to-cloud/aws-cloudfront-the-ultimate-guide-for-developers-and-architects-day-9-78108cf50107?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
