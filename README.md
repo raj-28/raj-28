@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Amazon Kinesis and Its Ecosystem Day 13/#50DayawsDeveloper Challenge](https://medium.com/@masterrajpatel/understanding-amazon-kinesis-and-its-ecosystem-day-13-50dayawsdeveloper-challenge-062c3140f906?source=rss-cf0d1005fdcb------2)
+- [Comprehensive Guide to AWS CloudWatch, CloudTrail, EventBridge, and X-Ray for Cloud Monitoring](https://medium.com/@masterrajpatel/comprehensive-guide-to-aws-cloudwatch-cloudtrail-eventbridge-and-x-ray-for-cloud-monitoring-935443c8e23a?source=rss-cf0d1005fdcb------2)
+- [Understanding Amazon Kinesis and Its Ecosystem Day 14/#50DayawsDeveloper Challenge](https://medium.com/@masterrajpatel/understanding-amazon-kinesis-and-its-ecosystem-day-13-50dayawsdeveloper-challenge-062c3140f906?source=rss-cf0d1005fdcb------2)
 - [Mastering Amazon SQS and SNS: Comprehensive Guide with Real-Life Examples](https://medium.com/from-code-to-cloud/mastering-amazon-sqs-and-sns-comprehensive-guide-with-real-life-examples-b34d11d2d63b?source=rss-cf0d1005fdcb------2)
 - [AWS CloudFormation Guide — Automate Your Infrastructure](https://medium.com/from-code-to-cloud/aws-cloudformation-guide-automate-your-infrastructure-963d43135b40?source=rss-cf0d1005fdcb------2)
-- [Master AWS Elastic Beanstalk: Deployment, Lifecycle &amp; Scenarios](https://medium.com/from-code-to-cloud/master-aws-elastic-beanstalk-deployment-lifecycle-scenarios-12dfb3f81e9c?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
