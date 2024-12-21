@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 1: Understanding AWS Lambda — A Practical Guide](https://medium.com/@masterrajpatel/part-1-understanding-aws-lambda-a-practical-guide-3ee1faafb802?source=rss-cf0d1005fdcb------2)
 - [Comprehensive Guide to AWS CloudWatch, CloudTrail, EventBridge, and X-Ray for Cloud Monitoring](https://medium.com/from-code-to-cloud/comprehensive-guide-to-aws-cloudwatch-cloudtrail-eventbridge-and-x-ray-for-cloud-monitoring-935443c8e23a?source=rss-cf0d1005fdcb------2)
 - [Understanding Amazon Kinesis and Its Ecosystem Day 14/#50DayawsDeveloper Challenge](https://medium.com/@masterrajpatel/understanding-amazon-kinesis-and-its-ecosystem-day-13-50dayawsdeveloper-challenge-062c3140f906?source=rss-cf0d1005fdcb------2)
 - [Mastering Amazon SQS and SNS: Comprehensive Guide with Real-Life Examples](https://medium.com/from-code-to-cloud/mastering-amazon-sqs-and-sns-comprehensive-guide-with-real-life-examples-b34d11d2d63b?source=rss-cf0d1005fdcb------2)
-- [AWS CloudFormation Guide — Automate Your Infrastructure](https://medium.com/from-code-to-cloud/aws-cloudformation-guide-automate-your-infrastructure-963d43135b40?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
