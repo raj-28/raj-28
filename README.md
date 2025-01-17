@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon API Gateway API’s Part-2](https://medium.com/@masterrajpatel/amazon-api-gateway-apis-part-2-1c39f59b6050?source=rss-cf0d1005fdcb------2)
 - [Amazon API Gateway Endpoints Part-1](https://medium.com/@masterrajpatel/amazon-api-gateway-endpoints-part-1-95f554e452ad?source=rss-cf0d1005fdcb------2)
 - [Amazon DynamoDB Cheat Sheet: Essential Guide for AWS Developer Associate Exam Part-3](https://medium.com/@masterrajpatel/amazon-dynamodb-cheat-sheet-essential-guide-for-aws-developer-associate-exam-part-3-69986449d23f?source=rss-cf0d1005fdcb------2)
 - [Amazon DynamoDB Cheat Sheet: Essential Guide for AWS Developer Associate Exam Part-2](https://medium.com/@masterrajpatel/amazon-dynamodb-cheat-sheet-essential-guide-for-aws-developer-associate-exam-part-2-336df4e25c2d?source=rss-cf0d1005fdcb------2)
-- [Amazon DynamoDB Cheat Sheet: Essential Guide for AWS Developer Associate Exam Part-1](https://medium.com/from-code-to-cloud/amazon-dynamodb-cheat-sheet-essential-guide-for-aws-developer-associate-exam-part-1-32bf25ddf7b0?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
