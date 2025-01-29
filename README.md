@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Serverless Application Model &lpar;AWS SAM&rpar;](https://medium.com/@masterrajpatel/aws-serverless-application-model-aws-sam-4423e5f68d8b?source=rss-cf0d1005fdcb------2)
 - [AWS Developer Tools Overview Part-2](https://medium.com/@masterrajpatel/aws-developer-tools-overview-part-2-05c3742c0d50?source=rss-cf0d1005fdcb------2)
 - [AWS Developer Tools Overview Part-1](https://medium.com/from-code-to-cloud/aws-developer-tools-overview-part-1-ed45cf3a2df8?source=rss-cf0d1005fdcb------2)
 - [Amazon API Gateway Cors,IAM,Cognito Integration Part-3](https://medium.com/from-code-to-cloud/amazon-api-gateway-cors-iam-cognito-integration-part-3-2fefaf6d4cc7?source=rss-cf0d1005fdcb------2)
-- [Amazon API Gateway API’s Part-2](https://medium.com/from-code-to-cloud/amazon-api-gateway-apis-part-2-1c39f59b6050?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
