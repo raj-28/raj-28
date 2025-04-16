@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Barba.js — Setup, Fade Transitions, and Visual Feedback](https://medium.com/@masterrajpatel/getting-started-with-barba-js-setup-fade-transitions-and-visual-feedback-285e4238a723?source=rss-cf0d1005fdcb------2)
 - [React Server Components overview.](https://medium.com/@masterrajpatel/react-server-components-overview-6665d4bbc36b?source=rss-cf0d1005fdcb------2)
 - [AWS Serverless Application Model &lpar;AWS SAM&rpar;](https://medium.com/@masterrajpatel/aws-serverless-application-model-aws-sam-4423e5f68d8b?source=rss-cf0d1005fdcb------2)
 - [AWS Developer Tools Overview Part-2](https://medium.com/@masterrajpatel/aws-developer-tools-overview-part-2-05c3742c0d50?source=rss-cf0d1005fdcb------2)
-- [AWS Developer Tools Overview Part-1](https://medium.com/from-code-to-cloud/aws-developer-tools-overview-part-1-ed45cf3a2df8?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
