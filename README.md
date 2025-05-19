@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Mental Map of AWS Serverless: Architect Like a Cloud Native](https://medium.com/@masterrajpatel/mental-map-of-aws-serverless-architect-like-a-cloud-native-29a3ab0f433c?source=rss-cf0d1005fdcb------2)
+- [5 Docker Projects That’ll Make You Say ‘I Get It Now’](https://medium.com/@masterrajpatel/5-docker-projects-thatll-make-you-say-i-get-it-now-0f3df6ae9d38?source=rss-cf0d1005fdcb------2)
+- [Mental Map of AWS Serverless: Architect Like a Cloud Native](https://medium.com/from-code-to-cloud/mental-map-of-aws-serverless-architect-like-a-cloud-native-29a3ab0f433c?source=rss-cf0d1005fdcb------2)
 - [Top VS Code Extensions I Use Daily as a Developer &lpar;2025 Edition&rpar;](https://medium.com/@masterrajpatel/top-vs-code-extensions-i-use-daily-as-a-developer-2025-edition-5c76f85015ee?source=rss-cf0d1005fdcb------2)
 - [AWS Interview Questions &amp; Answers](https://medium.com/from-code-to-cloud/aws-interview-questions-answers-c83fe140bd73?source=rss-cf0d1005fdcb------2)
-- [Getting Started with Barba.js — Setup, Fade Transitions, and Visual Feedback](https://medium.com/@masterrajpatel/getting-started-with-barba-js-setup-fade-transitions-and-visual-feedback-285e4238a723?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
