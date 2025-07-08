@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an End-to-End CI/CD Pipeline on AWS Using Jenkins, Docker, Kubernetes, SonarQube &amp; More](https://medium.com/@masterrajpatel/how-i-built-an-end-to-end-ci-cd-pipeline-on-aws-using-jenkins-docker-kubernetes-sonarqube-more-2f3773392100?source=rss-cf0d1005fdcb------2)
 - [Integrating Security Scanning into Your CI/CD Pipeline](https://medium.com/@masterrajpatel/integrating-security-scanning-into-your-ci-cd-pipeline-8c5e924c2686?source=rss-cf0d1005fdcb------2)
 - [Cloud Architecture Design &lpar;AWS&rpar; for — Notification Platform](https://medium.com/@masterrajpatel/cloud-architecture-design-aws-for-notification-platform-938556bc2622?source=rss-cf0d1005fdcb------2)
 - [5 Docker Projects That’ll Make You Say ‘I Get It Now’](https://medium.com/@masterrajpatel/5-docker-projects-thatll-make-you-say-i-get-it-now-0f3df6ae9d38?source=rss-cf0d1005fdcb------2)
-- [Mental Map of AWS Serverless: Architect Like a Cloud Native](https://medium.com/from-code-to-cloud/mental-map-of-aws-serverless-architect-like-a-cloud-native-29a3ab0f433c?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
