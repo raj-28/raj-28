@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Casino Effect: Why Your AWS Console is Designed to Make You Spend](https://aws.plainenglish.io/the-casino-effect-why-your-aws-console-is-designed-to-make-you-spend-aea780aa853a?source=rss-cf0d1005fdcb------2)
 - [Welcome to the Kingdom of Kubernetes: Your Journey Begins](https://aws.plainenglish.io/welcome-to-the-kingdom-of-kubernetes-your-journey-begins-f477f0573cb1?source=rss-cf0d1005fdcb------2)
 - [Building a Real-World AWS Data Pipeline: S3 + Glue + Redshift + Airflow in 7 Practical Steps](https://aws.plainenglish.io/building-a-real-world-aws-data-pipeline-s3-glue-redshift-airflow-in-7-practical-steps-05bd007e3faa?source=rss-cf0d1005fdcb------2)
 - [How I Built an End-to-End CI/CD Pipeline on AWS Using Jenkins, Docker, Kubernetes, SonarQube &amp; More](https://aws.plainenglish.io/how-i-built-an-end-to-end-ci-cd-pipeline-on-aws-using-jenkins-docker-kubernetes-sonarqube-more-2f3773392100?source=rss-cf0d1005fdcb------2)
-- [Integrating Security Scanning into Your CI/CD Pipeline](https://medium.com/@masterrajpatel/integrating-security-scanning-into-your-ci-cd-pipeline-8c5e924c2686?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
