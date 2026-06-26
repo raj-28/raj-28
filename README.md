@@ -19,8 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AMD Ryzen™ AI “Halo”: The Processor That’s Redefining AI PCs in 2026](https://medium.com/@masterrajpatel/amd-ryzen-ai-halo-the-processor-thats-redefining-ai-pcs-in-2026-434a15ecb2ce?source=rss-cf0d1005fdcb------2)
 - [Rethinking Cloud Security Visibility in Multi-Cloud Environments](https://aws.plainenglish.io/rethinking-cloud-security-visibility-in-multi-cloud-environments-5ccdcd1e5978?source=rss-cf0d1005fdcb------2)
-- [Into to Argocd](https://medium.com/@masterrajpatel/into-to-argocd-10c96e924663?source=rss-cf0d1005fdcb------2)
 - [The Casino Effect: Why Your AWS Console is Designed to Make You Spend](https://aws.plainenglish.io/the-casino-effect-why-your-aws-console-is-designed-to-make-you-spend-aea780aa853a?source=rss-cf0d1005fdcb------2)
 - [Welcome to the Kingdom of Kubernetes: Your Journey Begins](https://aws.plainenglish.io/welcome-to-the-kingdom-of-kubernetes-your-journey-begins-f477f0573cb1?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
