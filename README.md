@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-6 Astra on Amazon Bedrock: Full Build Guide, Real Pricing, and the 272K Token Trap](https://medium.com/@masterrajpatel/gpt-6-astra-on-amazon-bedrock-full-build-guide-real-pricing-and-the-272k-token-trap-49da8036d5cf?source=rss-cf0d1005fdcb------2)
 - [AMD Ryzen™ AI “Halo”: The Processor That’s Redefining AI PCs in 2026](https://medium.com/@masterrajpatel/amd-ryzen-ai-halo-the-processor-thats-redefining-ai-pcs-in-2026-434a15ecb2ce?source=rss-cf0d1005fdcb------2)
 - [Rethinking Cloud Security Visibility in Multi-Cloud Environments](https://aws.plainenglish.io/rethinking-cloud-security-visibility-in-multi-cloud-environments-5ccdcd1e5978?source=rss-cf0d1005fdcb------2)
 - [The Casino Effect: Why Your AWS Console is Designed to Make You Spend](https://aws.plainenglish.io/the-casino-effect-why-your-aws-console-is-designed-to-make-you-spend-aea780aa853a?source=rss-cf0d1005fdcb------2)
-- [Welcome to the Kingdom of Kubernetes: Your Journey Begins](https://aws.plainenglish.io/welcome-to-the-kingdom-of-kubernetes-your-journey-begins-f477f0573cb1?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
