@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Hacked Hugging Face and Labeled the Stolen Credentials ‘LOOT’: An AI Security Teardown…](https://medium.com/@masterrajpatel/ai-agents-hacked-hugging-face-and-labeled-the-stolen-credentials-loot-an-ai-security-teardown-d45c370e7c53?source=rss-cf0d1005fdcb------2)
 - [Claude Opus 5.5 on AWS: The Full Cost Math, Migration Checklist, and 4 Breaking Changes](https://medium.com/@masterrajpatel/claude-opus-5-5-on-aws-the-full-cost-math-migration-checklist-and-4-breaking-changes-7b6559b8a08e?source=rss-cf0d1005fdcb------2)
 - [AI Coding Agents Broke Your CI Pipeline. Here Is How Linear Rebuilt Theirs](https://medium.com/@masterrajpatel/ai-coding-agents-broke-your-ci-pipeline-here-is-how-linear-rebuilt-theirs-4049fcbfef10?source=rss-cf0d1005fdcb------2)
 - [Google AX: The Open Source, Kubernetes Shaped Orchestrator for AI Agents](https://medium.com/@masterrajpatel/google-ax-the-open-source-kubernetes-shaped-orchestrator-for-ai-agents-4d13c9db1fad?source=rss-cf0d1005fdcb------2)
-- [GPT-6 Astra on Amazon Bedrock: Full Build Guide, Real Pricing, and the 272K Token Trap](https://medium.com/@masterrajpatel/gpt-6-astra-on-amazon-bedrock-full-build-guide-real-pricing-and-the-272k-token-trap-49da8036d5cf?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
