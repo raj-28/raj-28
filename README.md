@@ -20,9 +20,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Pi 1.0: The Open Source AI Coding Agent That Ships 4 Tools &lpar;I Installed It Today&rpar;](https://medium.com/from-code-to-cloud/pi-1-0-the-open-source-ai-coding-agent-that-ships-4-tools-i-installed-it-today-4a2ea760042f?source=rss-cf0d1005fdcb------2)
+- [NVIDIA Open Agent Safety Platform for AI Agents: I Read the Source Code. Only Half of It Ships](https://medium.com/from-code-to-cloud/nvidia-open-agent-safety-platform-for-ai-agents-i-read-the-source-code-only-half-of-it-ships-c42880e8f65f?source=rss-cf0d1005fdcb------2)
 - [AWS Open Sourced Its AI Agent Harness. I Installed It and Audited the 28% Cheaper Claim](https://aws.plainenglish.io/aws-open-sourced-its-ai-agent-harness-i-installed-it-and-audited-the-28-cheaper-claim-a7a11c749ba6?source=rss-cf0d1005fdcb------2)
 - [LocalStack Started Charging $39 a Month in March.](https://medium.com/@masterrajpatel/localstack-started-charging-39-a-month-in-march-385c50e62a8a?source=rss-cf0d1005fdcb------2)
-- [AI Agents Hacked Hugging Face and Labeled the Stolen Credentials ‘LOOT’: An AI Security Teardown…](https://medium.com/@masterrajpatel/ai-agents-hacked-hugging-face-and-labeled-the-stolen-credentials-loot-an-ai-security-teardown-d45c370e7c53?source=rss-cf0d1005fdcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
